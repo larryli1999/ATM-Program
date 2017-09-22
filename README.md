@@ -10,7 +10,7 @@ The data are recorded in four files, and you can also check the balance of each 
 
 /*********steps************/
 1. Open all the programs
-2. Place all the .txt file in the same location on hard drive as your programs.
+2. Place all the .txt file in the same location on hard drive as your programs and excute the program.
 3. In the main window, you can select the possible accout you want to view in details.
 4. In different accounts, you can proceed the deposit, withdraw, check balance operation by clicking the corresponding button.
 5. All the transfers are recorded in the files including the specfic transfer time are listed in both of accounts.
