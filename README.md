@@ -1,4 +1,4 @@
-# ATM-Program
+# ATM-Simulator
 /*
 Hey there, first of all, let me introduce what this program is about in details.
 
